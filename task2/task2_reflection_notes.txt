@@ -1,0 +1,4 @@
+﻿                                             Digital Portfolio Development Report
+In this task, I created profiles on GitHub, LinkedIn, and Kaggle. GitHub is used to showcase coding projects and track development work. LinkedIn is a professional networking platform where I can connect with professionals and explore career opportunities. Kaggle is mainly used for data science learning and competitions.
+
+Over the next four years, I plan to regularly upload my projects on GitHub to build a strong portfolio. On LinkedIn, I will connect with industry professionals and share my achievements. On Kaggle, I will practice data science skills and participate in competitions. These platforms will help me improve my skills and increase my chances of getting internships and job opportunities.

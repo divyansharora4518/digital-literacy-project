@@ -1,0 +1,6 @@
+﻿                                                  UPI Payment Fraud Case Study
+UPI payment fraud is a common cybercrime where scammers trick people into sending money through digital payment apps. In this case, a college student named Rahul received a phone call from a person pretending to be a bank official. The caller informed him that his bank account would be blocked unless he verified his details.
+First, the scammer gained Rahul’s trust by using official language. Then, he asked Rahul to open his UPI app and approve a “verification request.” Rahul believed it was necessary and entered his UPI PIN. Within seconds, ₹10,000 was deducted from his account.
+Such frauds usually target students, elderly people, and those who are not very familiar with digital payments. The consequences include financial loss, stress, and loss of trust in online services.
+This case highlights the importance of never sharing UPI PINs or approving unknown requests. Banks never ask for sensitive details over phone calls.
+
