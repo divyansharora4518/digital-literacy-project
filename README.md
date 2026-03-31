@@ -25,6 +25,6 @@ Implementation Details
 
 Results
 Briefly mention the outcome, The model achieved an accuracy of 92%
-
+Google form link:https://docs.google.com/forms/d/e/1FAIpQLSdIls5b9NFnpvBxFouLJgb9vy1diQ8MEHLZFhJIB_NW5M_Kpw/viewform?usp=publish-editor
 
 Submitted by Divyansh Arora (25BAI11338)
